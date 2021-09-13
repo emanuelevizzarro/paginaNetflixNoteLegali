@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+
+/*header {
+    width: 100vh;
+    height: 110px;
+    display: flex;
+    align-items: center;
+}*/
+
+
+/*.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+} */
+
+.container .head {
+    width: 100vw;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+}
+
+.container .head img {
+    width: 15%;
+}
